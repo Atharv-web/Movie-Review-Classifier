@@ -2,4 +2,6 @@ MOVIE REVIEW CLASSIFIER (MRC) - 2 files
 
 1. CNN - This repository contains a Python program for sentiment analysis of movie reviews using deep learning techniques. The goal is to classify movie reviews as either positive or negative based on their textual content.
 
-2. NB - 
+2. NB - This repository contains a Python program for sentiment analysis of movie reviews using the Naive Bayes classifier. The goal is to classify movie reviews as either positive or negative based on their textual content.
+
+DATASET - imdb dataset
