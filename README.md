@@ -55,11 +55,11 @@ The repository uses the **IMDB dataset** for sentiment analysis. This dataset co
 4. Run the desired implementation:
    - CNN:
      ```bash
-     python cnn_sentiment_analysis.py
+     python mrc-cnn.ipynb
      ```
    - NB:
      ```bash
-     python nb_sentiment_analysis.py
+     python mrc-nb.ipynb
      ```
 
 ## Usage
