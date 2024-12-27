@@ -61,13 +61,3 @@ The repository uses the **IMDB dataset** for sentiment analysis. This dataset co
      ```bash
      python mrc-nb.ipynb
      ```
-
-## Usage
-Both implementations include comments and documentation to guide users through the process. Users can modify parameters, preprocessing steps, or model architectures as needed.
-
-## Contribution
-Contributions are welcome! Feel free to submit pull requests or open issues for any suggestions, bug fixes, or improvements.
-
-## License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-
